@@ -5,4 +5,3 @@ requests
 cloudinary
 pillow
 streamlit_autorefresh
-urllib.parse
